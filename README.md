@@ -1,5 +1,9 @@
-# Lightn1ng0_AI_Aimbot
-Free AI Aimbot that works for every game in existence!  
+# Lightn1ng0_AI_Aimbot V1.3 Update disabled
+the 1.3 version was in my opinion the best
+Free AI Aimbot that works for every game in existence!
+
+Original come from https://github.com/Lightn1ng0/Lightn1ng0_AI_Aimbot
+
 Download: https://github.com/glnklein/Lightn1ng0_AI_Aimbot/releases/download/1.3/setup.bat
 
 Setup video --> https://www.youtube.com/watch?v=MukvEr-iq44  
